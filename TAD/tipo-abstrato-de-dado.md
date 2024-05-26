@@ -5,7 +5,7 @@ que uma variável pode assumir
 
 Ex: int
 ... -2, -1, 0, +1, +2, ...
-	
+
 Estruturas de Dados: trata-se de um relacionamento lógico entre
 tipos de dados
 
