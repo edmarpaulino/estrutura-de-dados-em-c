@@ -6,3 +6,5 @@ Repositório destinado ao curso de Estrutura de Dados em Linguagem C do professo
 
 - TAD (Tipo Abstrato de Dados)
 - Lista Estática Sequencial
+- Lista Dinâmica Encadeada
+- Lista Dinâmica Duplamente Encadeada
