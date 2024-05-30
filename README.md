@@ -8,3 +8,4 @@ Repositório destinado ao curso de Estrutura de Dados em Linguagem C do professo
 - Lista Estática Sequencial
 - Lista Dinâmica Encadeada
 - Lista Dinâmica Duplamente Encadeada
+- Lista Dinâmica Circular
