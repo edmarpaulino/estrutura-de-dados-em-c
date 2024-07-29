@@ -1,5 +1,8 @@
 {
   "github.copilot.enable": {
     "*": false
+  },
+  "files.associations": {
+    "filaestatica.h": "c"
   }
 }

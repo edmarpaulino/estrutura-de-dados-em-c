@@ -1,0 +1,57 @@
+# Fila Dinâmica
+
+"Fila Dinâmica":
+Tipo de "Fila" onde cada elemento
+aponta para o seu sucessor na "fila"
+Usa um "nó descritor" para representar
+o início e final da fila e uma
+indicação de final de fila
+
+```txt
+Fila
+     [início|final] nó descritor   [dado]prox]
+        |      |
+        |       - - -
+        |            |
+        V            V
+dados [33]]->[23]]->[16]]----
+                            |
+                            V
+                           NULL
+```
+
+## Implementando uma "Fila Dinâmica"
+
+"FilaDin.h": definir
+- os protótipos das funções
+- o tipo de dado armazenado na fila
+- o ponteiro "fila"
+
+"FilaDin.c": definir
+- o tipo de dados "fila"
+- implementar as suas funções
+
+### Algumas informações básicas sobre a lista:
+- Tamanho?
+- Está cheia?
+- Está vazia?
+
+### Inserção
+
+Em uma "fila" a inserção é sempre no seu final
+
+Também existe o caso onde a inserção é feita
+em uma "fila" que está vazia
+
+Cuidado: não se pode inserir numa fila cheia
+
+### Remoção
+
+Em uma "fila"a remoção é sempre no seu início
+
+Cuidado: não se pode remover de uma fila vazia
+
+### Consulta
+
+Em uma "fila" a consulta se dá apenas
+ao elemento que está no seu início
