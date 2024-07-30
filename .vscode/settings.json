@@ -3,6 +3,8 @@
     "*": false
   },
   "files.associations": {
-    "filaestatica.h": "c"
+    "filaestatica.h": "c",
+    "pilhadin.h": "c",
+    "stdlib.h": "c"
   }
 }
