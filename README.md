@@ -10,3 +10,7 @@ Repositório destinado ao curso de Estrutura de Dados em Linguagem C do professo
 - Lista Dinâmica Duplamente Encadeada
 - Lista Dinâmica Circular
 - Lista Com Nó Descritor
+- Fila Estática
+- Fila Dinâmica
+- Pilha Estática
+- Pilha Dinâmica
