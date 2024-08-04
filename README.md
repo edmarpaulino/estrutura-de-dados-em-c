@@ -15,3 +15,4 @@ Repositório destinado ao curso de Estrutura de Dados em Linguagem C do professo
 - Pilha Estática
 - Pilha Dinâmica
 - Busca Vetor
+- Ordenação Vetor
